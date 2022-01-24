@@ -88,12 +88,6 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1,TV PARANÁ
 http://200.189.113.201/hls/tve.m3u8
 
-
-#EXTINF:-1,TV 00001
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
-
-
 #EXTINF:-1,CBSN
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,KIDS PORTUGAL
