@@ -1,912 +1,721 @@
-LISTA NEWS
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="MULTI", MULTISHOWSS
+#EXTM3U
+#EXTINF:-1,iptvtools_1
 http://pdsrv.io:80/gvlzqivy/eamF0010/6867
-
-#EXTINF:-2 tvg-logo="" group-title="CANAIS ABERTOS",TV FUTURO
-https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8   
-
-NOVOS CANAIS
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://lista.lorddark.club:8080/fulviodefreitas/freitass5235/745
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://brtv.club:8880/kitosoutra/TBPZ3KA5/1978
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://tv.factoryiptv.com:80/5GxXZgJwW5/factoryiptv/51146
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://stv.mtvs.me:8880/txmove9972/spmovve44998800/28341
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54830
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54814
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://pfsv.io:80/0721516/06784/387
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/30346
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/12789
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://srvx.io:80/giovana/260588/72026
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL5080
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://5ce.me:80/thiago016/as1020/35907
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://5ce.me:80/thiago016/as1020/35754
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://pfsv.io:80/4673724/75466/402
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://dnsx.co:80/live/jVS8U/xDENw/72071.m3u8
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://acc2.aatvbox.club:8880/test6/zsdz3547/65731
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://rec2.distv.net:80/abraao/123456/231
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TV GLOBO
-http://cloud-nany.cc:80/AndersonOrtis/ufgTOIEXGw/1003
-
-
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://lista.lorddark.club:8080/fulviodefreitas/freitass5235/745
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://brtv.club:8880/kitosoutra/TBPZ3KA5/1978
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://tv.factoryiptv.com:80/5GxXZgJwW5/factoryiptv/51146
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://stv.mtvs.me:8880/txmove9972/spmovve44998800/28341
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54830
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54814
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://pfsv.io:80/0721516/06784/387
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/30346
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/12789
-
-#EXTINF:-2 tvg-logo="" group-title="NOVOS CANAIS",TELECINE
-http://srvx.io:80/giovana/260588/72026
-
-
-
-CANAIS TESTES
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW
-
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", 
-http://udq.me:80/WW3dPGcKcQ/1162706429/13266
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 2
-http://udq.me:80/WW3dPGcKcQ/1162706429/106007
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 3
-http://pdsrv.io:80/gvlzqivy/eamF0010/33760
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 4
-http://natv.pw:80/Marcooani6358/eBwJi8yef3/48692
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 5
-http://dnsx.co:80/9510517727/fireurl.co/72181
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 7
-http://natv.pw:80/Marcooani6358/eBwJi8yef3/2021
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 8
-http://dnsx.co:80/9021560985/fireurl.co/72183
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 9
-http://akamaizedx.com:80/CeniSa/sendo-usada-para-restream/92
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 10
-http://yakisobamix.click:80/gabriel123/gabriel321/92175
-
-#EXTINF:-1 tvg-logo="https://wp-cdn.etiquetaunica.com.br/blog/wp-content/uploads/2019/11/27233438/capa-post-premios-multishow-271119.jpg" group-title="CANAIS TESTE", MULTISHOW 11
-http://natv.pw:80/Marcooani6358/eBwJi8yef3/18809
-
-
-CANAIS BRASIL
-
-#EXTINF:-1,iptvtools_160
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS BRASIL",SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS BRASIL",REDE TV
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="CANAIS BRASIL",CNN BRASIL
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 2
-http://dnsx.co:80/9021560985/fireurl.co/71972
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 3
-http://dnsx.co:80/9021560985/fireurl.co/72027
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 4
-http://dns.xcrv.xyz:80/GuilhermeAraujoCecilio/Cecilio2212/43263
-
-#EXTINF:-1,group-title="CANAIS BRASIL", ISTV
-https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 5
-http://natv.pw:80/live/leoflaks/flaks123/2157.m3u8
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 6
-http://e.advd.cyou:80/carine2020/carine2020/184941
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 7
-http://vvraw.com:2082/Altair567/356738473/4526
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 8
-http://b5.vc:80/moises0324/xDJkC/72041
-
-#EXTINF:-1 tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/10/Globo.jpg" group-title="CANAIS BRASIL", GLOBO 9
-http://srv.maxptv.net:8080/joao12/100300/20462
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/qpo7ipl3ZSIcwLWHPtHkeJmbOggCQ-0RwJ87YkPXEXzRoWQ2y7atQzFZ7-UtWFfGpJow-pl14MwzQ-i1Ozj4ijtnQNGarfV42BrJ3fT94boof8MbC7mAx1M", TV SUL - FILMES 
-https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m3FWBGAcTaM/maxresdefault.jpg" group-title="CANAIS BRASIL", TV ARACATI
-https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS BRASIL",SBT 2
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS BRASIL",CBN
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8      	   	
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS BRASIL", TV CULTURA
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS BRASIL", TV CULTURA 2
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS BRASIL",BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8 #Name: iptvtools_3
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",TV RECORD TROPICAL 
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="CANAIS BRASIL", TV Gazeta (SP)
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",TV CÂMARA 
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="CANAIS BRASIL",ALL SPORTS 
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8 #Name: iptvtools_10
-
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/71/44/f6/7144f6fb-9c17-90c7-a39a-4d3bffcadba3/source/512x512bb.jpg" group-title="CANAIS BRASIL",TV FAAP
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8 #Name: iptvtools_6
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/telaviva.com.br/wp-content/uploads/2017/12/tv-brasil.jpg" group-title="CANAIS BRASIL",TV BRASIL
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8    
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", CANAL EM ALTA
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8 #Name: iptvtools_24
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL",RETRÔ MUSIC
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8 #Name: iptvtools_26
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL",RETRÔ MUSIC 2
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL",DIÁRIO DO SERTÃO
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8      	
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL",TV PARANÁ
-http://200.189.113.201/hls/tve.m3u8      	
-	
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL",TVE 1
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-     	
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL",TV APARECIDA?
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8      
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png" group-title="CANAIS BRASIL", CANAL ALTERNATIVO
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8      	
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="CANAIS BRASIL",CLASSIQUE TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8 #Name: iptvtools_25
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="CANAIS BRASIL", CATHOLIC
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="CANAIS BRASIL", TVN
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8      	
-
-TELECINES
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", TELECINE PIPOCA
-http://rec2.distv.net:80/plinio/123/197
-
-#EXTINF:-3 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", TELECINE PREMIUM
-http://dnsx.co:80/7885037935/fireurl.co/72364
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", TELECINE PREMIUM 2
-http://list.deeplist.nl:80/rjz82xhqjf058r6kh6r7aehee/8wbv610kp1rxkjjnszsj2mbqv/929
-
-#EXTINF:-3 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", TELECINE PREMIUM 3
-http://pfsv.io:80/FablineAraujo/am34we/30246
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", TELECINE CULT
-http://rec2.distv.net:80/plinio/123/195
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", TELECINE ACTION
-http://tv.minhalista.me/live/whX4TJ69UK/duoiptv/37005.ts
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", REDE BRASIL
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-
-BBB
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB
-http://srv.maxptv.net:8080/mx396/2509/21727
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB MOSAICO
-http://b5.vc:80/5733335982/fireurl.co/89718
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB 21 A
-http://akamaizedx.com:80/CeniSa/sendo-usada-para-restream/10052226
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB
-http://lista.lorddark.club/5247/5247/203816
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB CLARO
-http://b5.vc:80/4vgNm002/DSZ6A/89719
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB CAMERA PRINCIPAL
-http://diretogo.com:80/cristian1290/99392x/10052648
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB PISCINA
-http://diretogo.com:80/d538076x/538076/10052640
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB SALA DE ESTAR
-http://b5.vc:80/4vgNm002/DSZ6A/93520
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB QUARTO C
-http://pdsrv.io:80/gvlzqivy/eamF0010/75649
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB COZINHA
-http://rec2.distv.net:80/filipe/filipe/258
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB CAMERA
-http://udq.me:80/WW3dPGcKcQ/1162706429/113527
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB JARDIM
-http://goog.tv:80/diego1001/d10m01a/10052639
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB QUARTO CORDEL
-http://b5.vc:80/4vgNm002/DSZ6A/93514
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB
-http://srv.maxptv.net:8080/mx396/2509/21727
-
-#EXTINF:-1 tvg-logo="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2021/01/bbb_220120211624.jpg" group-title="BBB", BBB
-http://srv.maxptv.net:8080/mx396/2509/21727
-
-
-COMEDY
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", COMEDY
-https://342189106f294f6da7687918228af833.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f9ad508f47afc741c2526be/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", COMEDY DINAMICS
-https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
-
-HBO E CINEMAX
-
-CINEMAX
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", CINEMAX
-http://stream.stoplooking5.club:80/NeHosting/5817726549/4772
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO EXTREME BR
-http://list.deeplist.nl:80/rjz82xhqjf058r6kh6r7aehee/8wbv610kp1rxkjjnszsj2mbqv/5090
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO 2
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=870697
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO 3
-http://tv-privado.live:8080/k4hcr2950/F6rSt4u2ky/2392
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO COMEDY
-live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=288798
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO 4
-http://gg.gg/cocahbo
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO FAMILY
-http://pmsolar.co.uk:80/3wAa2J0AM6/738pTVFp9v/11790
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO TWO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO SIGNATURE
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", HBO MUNDI
-http://tvpremiumhd.club/lista-gratuita/183407/tv/live.php?id=53238
-
-
-
-
-DISCOVERY
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", DISCOVERY CHANNEL 1
-http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", DISCOVERY HD 
-http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29527
-
-#EXTINF:-1 tvg-logo="https://super.abril.com.br/wp-content/uploads/2019/10/tv.jpg" group-title="CANAIS BRASIL", DISCOVERY HD 3
-http://nextplayparaguay.info:25461/williamboing/19293949/159
-
-
-NEWS (NOVOS CANAIS)
-
-#EXTINF:-1,BBB
-https://listaiptv.gratis/bbb21.mp4
-#EXTINF:-1,SBT 222
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON #Name: iptvtools_7
-#EXTINF:-1,SBT 2
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,SBT 3
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
-#EXTINF:-1,SBT 4
-https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
-#EXTINF:-1,SBT 5
-https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
-#EXTINF:-1,SBT 6
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1,SBT 7
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1,RECORD 1 
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1,RECORD 2 
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
-#EXTINF:-1,RECORD 3
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1,RECORD 4 
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
-#EXTINF:-1,RECORD 5 
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
-#EXTINF:-1,RECORD 6 
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
-#EXTINF:-1,RECORD 7 
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
-#EXTINF:-1,RECORD 8
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1,BAND 
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,REDE TV 
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1,REDE TV 2 
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1,REDE TV 3
-https://tna5.bozztv.com/sgc17/index.m3u8
-#EXTINF:-1,K POP TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1,LBFF
-https://verizon.br.cdn.booyah.live/hls/1000021/master_34850987.m3u8
-#EXTINF:-1,YEAHHH
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1,CNN BRASIL
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1,CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1,RECORD REPORTER
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
-
-
-#EXTINF:-1,REDE BRASIL 2
-https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
-#EXTINF:-1,TV FUTURO
+#EXTINF:-1,iptvtools_2
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-
-#EXTINF:-1,CANAL C
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-
-#EXTINF:-1,VIAJE BRASIL
-http://187.33.200.235:9000/hls/redemetropole.m3u8
-
+#EXTINF:-1,iptvtools_3
+http://lista.lorddark.club:8080/fulviodefreitas/freitass5235/745
+#EXTINF:-1,iptvtools_4
+https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
+#EXTINF:-1,iptvtools_5
+http://brtv.club:8880/kitosoutra/TBPZ3KA5/1978
+#EXTINF:-1,iptvtools_6
+http://tv.factoryiptv.com:80/5GxXZgJwW5/factoryiptv/51146
+#EXTINF:-1,iptvtools_7
+http://stv.mtvs.me:8880/txmove9972/spmovve44998800/28341
+#EXTINF:-1,iptvtools_8
+https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1
+#EXTINF:-1,iptvtools_9
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54830
+#EXTINF:-1,iptvtools_10
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54814
+#EXTINF:-1,iptvtools_11
+http://pfsv.io:80/0721516/06784/387
+#EXTINF:-1,iptvtools_12
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/30346
+#EXTINF:-1,iptvtools_13
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/12789
+#EXTINF:-1,iptvtools_14
+http://srvx.io:80/giovana/260588/72026
+#EXTINF:-1,iptvtools_15
+https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL5080
+#EXTINF:-1,iptvtools_16
+http://5ce.me:80/thiago016/as1020/35907
+#EXTINF:-1,iptvtools_17
+http://5ce.me:80/thiago016/as1020/35754
+#EXTINF:-1,iptvtools_18
+http://pfsv.io:80/4673724/75466/402
+#EXTINF:-1,iptvtools_19
+http://dnsx.co:80/live/jVS8U/xDENw/72071.m3u8
+#EXTINF:-1,iptvtools_20
+http://acc2.aatvbox.club:8880/test6/zsdz3547/65731
+#EXTINF:-1,iptvtools_21
+http://rec2.distv.net:80/abraao/123456/231
+#EXTINF:-1,iptvtools_22
+http://cloud-nany.cc:80/AndersonOrtis/ufgTOIEXGw/1003
+#EXTINF:-1,iptvtools_23
+http://lista.lorddark.club:8080/fulviodefreitas/freitass5235/745
+#EXTINF:-1,iptvtools_24
+https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
+#EXTINF:-1,iptvtools_25
+http://brtv.club:8880/kitosoutra/TBPZ3KA5/1978
+#EXTINF:-1,iptvtools_26
+http://tv.factoryiptv.com:80/5GxXZgJwW5/factoryiptv/51146
+#EXTINF:-1,iptvtools_27
+http://stv.mtvs.me:8880/txmove9972/spmovve44998800/28341
+#EXTINF:-1,iptvtools_28
+https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1
+#EXTINF:-1,iptvtools_29
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54830
+#EXTINF:-1,iptvtools_30
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/54814
+#EXTINF:-1,iptvtools_31
+http://pfsv.io:80/0721516/06784/387
+#EXTINF:-1,iptvtools_32
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/30346
+#EXTINF:-1,iptvtools_33
+http://maisdoce.club:8080/Davidjs/hd4bpjY4gN/12789
+#EXTINF:-1,iptvtools_34
+http://srvx.io:80/giovana/260588/72026
+#EXTINF:-1,iptvtools_35
+http://udq.me:80/WW3dPGcKcQ/1162706429/13266
+#EXTINF:-1,iptvtools_36
+http://udq.me:80/WW3dPGcKcQ/1162706429/106007
+#EXTINF:-1,iptvtools_37
+http://pdsrv.io:80/gvlzqivy/eamF0010/33760
+#EXTINF:-1,iptvtools_38
+http://natv.pw:80/Marcooani6358/eBwJi8yef3/48692
+#EXTINF:-1,iptvtools_39
+http://dnsx.co:80/9510517727/fireurl.co/72181
+#EXTINF:-1,iptvtools_40
+http://natv.pw:80/Marcooani6358/eBwJi8yef3/2021
+#EXTINF:-1,iptvtools_41
+http://dnsx.co:80/9021560985/fireurl.co/72183
 #EXTINF:-1,iptvtools_42
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1,KIDS
-http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-
-#EXTINF:-1,KIDS
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-
-#EXTINF:-1,RETRO TV CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-
-#EXTINF:-1,NOVA MANCHETE
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-
-#EXTINF:-1, VINTAGE TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8
-
-#EXTINF:-1, DW TV
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1, TV UNIÃO 
-https://stmv1.srvif.com/admin/admin/playlist.m3u8
-#EXTINF:-1,TV UNIÃO 
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1,UNIVERSAL
-https://a.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1, DESENHOS
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
-#EXTINF:-1,ip
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+http://akamaizedx.com:80/CeniSa/sendo-usada-para-restream/92
+#EXTINF:-1,iptvtools_43
+http://yakisobamix.click:80/gabriel123/gabriel321/92175
+#EXTINF:-1,iptvtools_44
+http://natv.pw:80/Marcooani6358/eBwJi8yef3/18809
+#EXTINF:-1,iptvtools_45
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
+#EXTINF:-1,iptvtools_46
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_47
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1,iptvtools_48
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1,iptvtools_49
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1,iptvtools_50
+http://dnsx.co:80/9021560985/fireurl.co/71972
+#EXTINF:-1,iptvtools_51
+http://dnsx.co:80/9021560985/fireurl.co/72027
+#EXTINF:-1,iptvtools_52
+http://dns.xcrv.xyz:80/GuilhermeAraujoCecilio/Cecilio2212/43263
+#EXTINF:-1,iptvtools_53
+https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
+#EXTINF:-1,iptvtools_54
+http://natv.pw:80/live/leoflaks/flaks123/2157.m3u8
 #EXTINF:-1,iptvtools_55
-https://5e36c064a2f6a.streamlock.net:1936/8432/8432/chunklist.m3u8
+http://e.advd.cyou:80/carine2020/carine2020/184941
 #EXTINF:-1,iptvtools_56
-https://video-rvd-df-2.rnp.br/live/ocp(t(FmB7Buopzo8)r(fVR9ug)a(s2w9ww)p(d(2xc)k(q8Q)m(7k54e9V7r_qHeav5Dr1DZg)n(a(aTxSjg)s(7fQ)
+http://vvraw.com:2082/Altair567/356738473/4526
 #EXTINF:-1,iptvtools_57
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,CLIPS
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1, CLIPS 2:
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1,RETRÔ
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1,TV CAPITAL
-https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1,CLUPS
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_64
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:-1, CRISTAO
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
-#EXTINF:-1,NOPS
-https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1,iptvtools_67
-https://cdn.jmvstream.com/w/LVW-9637/LVW9637_tCdqqoCEyT/playlist.m3u8
-#EXTINF:-1, ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1, BRZ
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1, EVANGELIZAR 
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1,iptvtools_71
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1,iptvtools_72
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
-#EXTINF:-1,iptvtools_73
-https://caikron.com.br:8082/padroeira/padroeira/playlist.m3u8
-#EXTINF:-1, RS 21
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
-#EXTINF:-1,iptvtools_75
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1,iptvtools_76
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_77
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1,iptvtools_78
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_79
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1,TV PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-#EXTINF:-1, GOSPEL CARTOON 
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:-1,GOSPEL MOVIE TELEVISIOK
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1,GOSPEL MOVIE 2
-https://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1,iptvtools_84
-http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
-#EXTINF:-1,iptvtools_85
-http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1,iptvtools_86
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-#EXTINF:-1,DESENHOS 
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,REDE PREMUUM TV 
-https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
-#EXTINF:-1,iptvtools_89
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1,iptvtools_90
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1,iptvtools_91
-https://video-rvd-df-1.rnp.br/live/ocp(t(FkOckp8oHII)r(fVR9ug)a(sTWTlQ)p(d(2xc)k(q8E)m(_A2wYibgoR2EnPRrCPm07g)n(a(LEVWcA)s(SJA)
-#EXTINF:-1,CANAL E
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1,CANAL DA FAMÍLIA
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:-1,TV VIAMORENA
-https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
-#EXTINF:-1,iptvtools_95
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-#EXTINF:-1,SÉRIES 
-https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
-#EXTINF:-1,iptvtools_97
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
-#EXTINF:-1,iptvtools_98
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1,iptvtools_99
-https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
-#EXTINF:-1,iptvtools_100
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
-
-#EXTINF:-1,iptvtools_102
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
-#EXTINF:-1,iptvtools_103
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1,iptvtools_104
-https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
-
-#EXTINF:-1,iptvtools_106
-https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
-#EXTINF:-1,iptvtools_107
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
-#EXTINF:-1,iptvtools_108
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1,iptvtools_109
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1,iptvtools_110
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/f39450b4-2e14-4454-b052-71971d56897f_index.m3u8
-#EXTINF:-1,iptvtools_111
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:-1,iptvtools_112
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:-1,iptvtools_113
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_115
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-#EXTINF:-1,iptvtools_116
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
-#EXTINF:-1,iptvtools_117
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1,iptvtools_118
-https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1,iptvtools_119
-http://187.33.200.235:9000/hls/pontadaserra.m3u8
-#EXTINF:-1,iptvtools_120
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1,iptvtools_121
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1,iptvtools_122
-https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
-#EXTINF:-1,iptvtools_123
-https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8
-#EXTINF:-1,iptvtools_124
-https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
-#EXTINF:-1,iptvtools_125
-https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist.m3u8
-#EXTINF:-1,iptvtools_126
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1,iptvtools_127
-https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
-#EXTINF:-1,iptvtools_128
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
-#EXTINF:-1,iptvtools_129
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1,iptvtools_130
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1,iptvtools_131
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,iptvtools_132
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1,iptvtools_133
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
-#EXTINF:-1,iptvtools_134
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
-#EXTINF:-1,iptvtools_135
-http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1,iptvtools_136
-https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_137
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_138
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:-1,iptvtools_139
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1,iptvtools_140
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1,iptvtools_141
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1,iptvtools_142
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-#EXTINF:-1,iptvtools_143
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1,iptvtools_144
-http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
-#EXTINF:-1,iptvtools_145
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
-#EXTINF:-1,SIC TV
-http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1,iptvtools_147
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1,iptvtools_148
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1,iptvtools_149
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,iptvtools_150
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_151
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1,iptvtools_152
-http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1,iptvtools_153
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1,iptvtools_154
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,iptvtools_155
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1,iptvtools_156
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,iptvtools_157
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1,iptvtools_158
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,iptvtools_159
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
-#EXTINF:-1,iptvtools_161
-https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
-#EXTINF:-1,iptvtools_162
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_163
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1,iptvtools_164
-http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_165
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1,iptvtools_166
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1,iptvtools_167
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1,iptvtools_168
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,iptvtools_169
-https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
-#EXTINF:-1,iptvtools_170
-https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
-#EXTINF:-1,iptvtools_171
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1,iptvtools_172
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1,iptvtools_173
-http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
-#EXTINF:-1,iptvtools_174
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:-1,iptvtools_175
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
-#EXTINF:-1,iptvtools_176
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
-#EXTINF:-1,iptvtools_177
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_178
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_179
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_180
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_181
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_182
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_183
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_184
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_185
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_186
-https://hls.brasilstream.com.br/live/fmlive/fmlive/index.m3u8
-#EXTINF:-1,iptvtools_187
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
-#EXTINF:-1,iptvtools_188
+http://b5.vc:80/moises0324/xDJkC/72041
+#EXTINF:-1,iptvtools_58
+http://srv.maxptv.net:8080/joao12/100300/20462
+#EXTINF:-1,iptvtools_59
+https://lh3.googleusercontent.com/proxy/qpo7ipl3ZSIcwLWHPtHkeJmbOggCQ-0RwJ87YkPXEXzRoWQ2y7atQzFZ7-UtWFfGpJow-pl14MwzQ-i1Ozj4ijtnQNGarfV42BrJ3fT94boof8MbC7mAx1M
+#EXTINF:-1,iptvtools_60
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1,iptvtools_61
+https://5e36c064a2f6a.streamlock.net:1936/8554/8554/playlist.m3u8
+#EXTINF:-1,iptvtools_62
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_63
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1,iptvtools_64
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+#EXTINF:-1,iptvtools_65
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1,iptvtools_66
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1,iptvtools_67
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1,iptvtools_68
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1,iptvtools_69
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,iptvtools_70
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,iptvtools_71
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1,iptvtools_72
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1,iptvtools_73
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+#EXTINF:-1,iptvtools_74
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1,iptvtools_75
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,iptvtools_76
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_77
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,iptvtools_78
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,iptvtools_79
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1,iptvtools_80
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_81
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1,iptvtools_82
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:-1,iptvtools_83
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1,iptvtools_84
+http://rec2.distv.net:80/plinio/123/197
+#EXTINF:-1,iptvtools_85
+http://dnsx.co:80/7885037935/fireurl.co/72364
+#EXTINF:-1,iptvtools_86
+http://list.deeplist.nl:80/rjz82xhqjf058r6kh6r7aehee/8wbv610kp1rxkjjnszsj2mbqv/929
+#EXTINF:-1,iptvtools_87
+http://pfsv.io:80/FablineAraujo/am34we/30246
+#EXTINF:-1,iptvtools_88
+http://rec2.distv.net:80/plinio/123/195
+#EXTINF:-1,iptvtools_89
+http://tv.minhalista.me/live/whX4TJ69UK/duoiptv/37005.ts
+#EXTINF:-1,iptvtools_90
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1,iptvtools_91
+http://srv.maxptv.net:8080/mx396/2509/21727
+#EXTINF:-1,iptvtools_92
+http://b5.vc:80/5733335982/fireurl.co/89718
+#EXTINF:-1,iptvtools_93
+http://akamaizedx.com:80/CeniSa/sendo-usada-para-restream/10052226
+#EXTINF:-1,iptvtools_94
+http://lista.lorddark.club/5247/5247/203816
+#EXTINF:-1,iptvtools_95
+http://b5.vc:80/4vgNm002/DSZ6A/89719
+#EXTINF:-1,iptvtools_96
+http://diretogo.com:80/cristian1290/99392x/10052648
+#EXTINF:-1,iptvtools_97
+http://diretogo.com:80/d538076x/538076/10052640
+#EXTINF:-1,iptvtools_98
+http://b5.vc:80/4vgNm002/DSZ6A/93520
+#EXTINF:-1,iptvtools_99
+http://pdsrv.io:80/gvlzqivy/eamF0010/75649
+#EXTINF:-1,iptvtools_100
+http://rec2.distv.net:80/filipe/filipe/258
+#EXTINF:-1,iptvtools_101
+http://udq.me:80/WW3dPGcKcQ/1162706429/113527
+#EXTINF:-1,iptvtools_102
+http://goog.tv:80/diego1001/d10m01a/10052639
+#EXTINF:-1,iptvtools_103
+http://b5.vc:80/4vgNm002/DSZ6A/93514
+#EXTINF:-1,iptvtools_104
+http://srv.maxptv.net:8080/mx396/2509/21727
+#EXTINF:-1,iptvtools_105
+http://srv.maxptv.net:8080/mx396/2509/21727
+#EXTINF:-1,iptvtools_106
+https://342189106f294f6da7687918228af833.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f9ad508f47afc741c2526be/playlist.m3u8
+#EXTINF:-1,iptvtools_107
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
+#EXTINF:-1,iptvtools_108
+http://stream.stoplooking5.club:80/NeHosting/5817726549/4772
+#EXTINF:-1,iptvtools_109
+http://list.deeplist.nl:80/rjz82xhqjf058r6kh6r7aehee/8wbv610kp1rxkjjnszsj2mbqv/5090
+#EXTINF:-1,iptvtools_110
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1,iptvtools_111
+http://tv-privado.live:8080/k4hcr2950/F6rSt4u2ky/2392
+#EXTINF:-1,iptvtools_112
+http://gg.gg/cocahbo
+#EXTINF:-1,iptvtools_113
+http://pmsolar.co.uk:80/3wAa2J0AM6/738pTVFp9v/11790
+#EXTINF:-1,iptvtools_114
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1,iptvtools_115
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:-1,iptvtools_116
+http://tvpremiumhd.club/lista-gratuita/183407/tv/live.php?id=53238
+#EXTINF:-1,iptvtools_117
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
+#EXTINF:-1,iptvtools_118
+http://xdgo.live:8080/eDNxExdG9N/vtyQXdGCME/29527
+#EXTINF:-1,iptvtools_119
+http://nextplayparaguay.info:25461/williamboing/19293949/159
+#EXTINF:-1,iptvtools_120
+https://listaiptv.gratis/bbb21.mp4
+#EXTINF:-1,iptvtools_121
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
+#EXTINF:-1,iptvtools_122
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_123
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+#EXTINF:-1,iptvtools_124
+https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
+#EXTINF:-1,iptvtools_125
+https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
+#EXTINF:-1,iptvtools_126
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_127
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1,iptvtools_128
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1,iptvtools_129
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1,iptvtools_130
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1,iptvtools_131
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1,iptvtools_132
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+#EXTINF:-1,iptvtools_133
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1,iptvtools_134
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:-1,iptvtools_135
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1,iptvtools_136
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1,iptvtools_137
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1,iptvtools_138
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1,iptvtools_139
+https://tna5.bozztv.com/sgc17/index.m3u8
+#EXTINF:-1,iptvtools_140
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1,iptvtools_141
+https://verizon.br.cdn.booyah.live/hls/1000021/master_34850987.m3u8
+#EXTINF:-1,iptvtools_142
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,iptvtools_143
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1,iptvtools_144
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1,iptvtools_145
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1,iptvtools_146
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+#EXTINF:-1,iptvtools_147
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1,iptvtools_148
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1,iptvtools_149
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:-1,iptvtools_150
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,iptvtools_151
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+#EXTINF:-1,iptvtools_152
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1,iptvtools_153
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1,iptvtools_154
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1,iptvtools_155
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8
+#EXTINF:-1,iptvtools_156
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1,iptvtools_157
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
+#EXTINF:-1,iptvtools_158
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1,iptvtools_159
+https://a.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_160
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:-1,iptvtools_161
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1,iptvtools_162
+https://5e36c064a2f6a.streamlock.net:1936/8432/8432/chunklist.m3u8
+#EXTINF:-1,iptvtools_163
+https://video-rvd-df-2.rnp.br/live/ocp(t(FmB7Buopzo8)r(fVR9ug)a(s2w9ww)p(d(2xc)k(q8Q)m(7k54e9V7r_qHeav5Dr1DZg)n(a(aTxSjg)s(7fQ)
+#EXTINF:-1,iptvtools_164
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,iptvtools_165
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1,iptvtools_166
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1,iptvtools_167
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1,iptvtools_168
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,iptvtools_169
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,iptvtools_170
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_171
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1,iptvtools_172
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1,iptvtools_173
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1,iptvtools_174
+https://cdn.jmvstream.com/w/LVW-9637/LVW9637_tCdqqoCEyT/playlist.m3u8
+#EXTINF:-1,iptvtools_175
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1,iptvtools_176
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,iptvtools_177
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1,iptvtools_178
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1,iptvtools_179
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:-1,iptvtools_180
+https://caikron.com.br:8082/padroeira/padroeira/playlist.m3u8
+#EXTINF:-1,iptvtools_181
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF:-1,iptvtools_182
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1,iptvtools_183
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_184
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1,iptvtools_185
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_186
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1,iptvtools_187
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+#EXTINF:-1,iptvtools_188
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
 #EXTINF:-1,iptvtools_189
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1,iptvtools_190
+https://stmv6.srvstm.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1,iptvtools_191
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+#EXTINF:-1,iptvtools_192
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1,iptvtools_193
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1,iptvtools_194
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,iptvtools_195
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist.m3u8
+#EXTINF:-1,iptvtools_196
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1,iptvtools_197
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1,iptvtools_198
+https://video-rvd-df-1.rnp.br/live/ocp(t(FkOckp8oHII)r(fVR9ug)a(sTWTlQ)p(d(2xc)k(q8E)m(_A2wYibgoR2EnPRrCPm07g)n(a(LEVWcA)s(SJA)
+#EXTINF:-1,iptvtools_199
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1,iptvtools_200
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+#EXTINF:-1,iptvtools_201
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1,iptvtools_202
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1,iptvtools_203
+https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+#EXTINF:-1,iptvtools_204
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+#EXTINF:-1,iptvtools_205
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:-1,iptvtools_206
+https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
+#EXTINF:-1,iptvtools_207
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+#EXTINF:-1,iptvtools_208
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1,iptvtools_209
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1,iptvtools_210
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+#EXTINF:-1,iptvtools_211
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
+#EXTINF:-1,iptvtools_212
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:-1,iptvtools_213
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1,iptvtools_214
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1,iptvtools_215
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/f39450b4-2e14-4454-b052-71971d56897f_index.m3u8
+#EXTINF:-1,iptvtools_216
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1,iptvtools_217
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+#EXTINF:-1,iptvtools_218
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_219
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:-1,iptvtools_220
+http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+#EXTINF:-1,iptvtools_221
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1,iptvtools_222
+https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,iptvtools_223
+http://187.33.200.235:9000/hls/pontadaserra.m3u8
+#EXTINF:-1,iptvtools_224
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1,iptvtools_225
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1,iptvtools_226
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1,iptvtools_227
+https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8
+#EXTINF:-1,iptvtools_228
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1,iptvtools_229
+https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist.m3u8
+#EXTINF:-1,iptvtools_230
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1,iptvtools_231
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+#EXTINF:-1,iptvtools_232
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+#EXTINF:-1,iptvtools_233
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,iptvtools_234
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:-1,iptvtools_235
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1,iptvtools_236
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:-1,iptvtools_237
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
+#EXTINF:-1,iptvtools_238
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1,iptvtools_239
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1,iptvtools_240
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,iptvtools_241
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_242
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-1,iptvtools_243
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1,iptvtools_244
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,iptvtools_245
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,iptvtools_246
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1,iptvtools_247
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1,iptvtools_248
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+#EXTINF:-1,iptvtools_249
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:-1,iptvtools_250
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1,iptvtools_251
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1,iptvtools_252
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1,iptvtools_253
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1,iptvtools_254
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_255
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1,iptvtools_256
+http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1,iptvtools_257
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,iptvtools_258
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,iptvtools_259
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,iptvtools_260
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,iptvtools_261
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1,iptvtools_262
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,iptvtools_263
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
+#EXTINF:-1,iptvtools_264
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+#EXTINF:-1,iptvtools_265
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_266
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+#EXTINF:-1,iptvtools_267
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_268
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,iptvtools_269
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1,iptvtools_270
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1,iptvtools_271
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1,iptvtools_272
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1,iptvtools_273
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1,iptvtools_274
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1,iptvtools_275
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1,iptvtools_276
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
+#EXTINF:-1,iptvtools_277
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1,iptvtools_278
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1,iptvtools_279
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1,iptvtools_280
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_281
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_282
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_283
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_284
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_285
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_286
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_287
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_288
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,iptvtools_289
+https://hls.brasilstream.com.br/live/fmlive/fmlive/index.m3u8
+#EXTINF:-1,iptvtools_290
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+#EXTINF:-1,iptvtools_291
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1,iptvtools_292
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1,iptvtools_293
 https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
-
-
-
-CANAIS A CONFIRMAR
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 2
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8 #Name: iptvtools_2
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 4 
-https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8 #Name: iptvtools_4
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 8 
-https://abr-h.eu-central-1.edge.mycdn.live/live/multishow/playlist.m3u8 #Name: iptvtools_8
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 11 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/3 #Name: iptvtools_11
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 12 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/4 #Name: iptvtools_12
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 13 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/6 #Name: iptvtools_13
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 14 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/7 #Name: iptvtools_14
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 15 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/8 #Name: iptvtools_15
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 16 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/9 #Name: iptvtools_16
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 17 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/10 #Name: iptvtools_17
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 18 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/11 #Name: iptvtools_18
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 19 
-http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/14 #Name: iptvtools_19
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 20 
-}http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON #Name: iptvtools_20
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 21 
-http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8 #Name: iptvtools_21
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 22 
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8 #Name: iptvtools_22
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 23 
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8 #Name: iptvtools_23
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="CANAIS BRASIL",NOVO CANAL 27 
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8 #Name: iptvtools_27
-
-
-GOSPEL
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="GOSPEL E RELIGIÃO", GOSPEL TV
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8      	
-
-
-ESPORTE E VARIEDADES
-
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classique_site.png" group-title="ESPORTE E VARIEDADES ", ESPANHOL
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8   
-   	
-
-
-INTERNACIONAIS
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS",FRANCE 24H
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8  
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS", TV PORTO
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8      	
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS",JASMIN TV(MUSIC)
+#EXTINF:-1,iptvtools_294
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,iptvtools_295
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
+#EXTINF:-1,iptvtools_296
+https://abr-h.eu-central-1.edge.mycdn.live/live/multishow/playlist.m3u8
+#EXTINF:-1,iptvtools_297
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/3
+#EXTINF:-1,iptvtools_298
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/4
+#EXTINF:-1,iptvtools_299
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/6
+#EXTINF:-1,iptvtools_300
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/7
+#EXTINF:-1,iptvtools_301
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/8
+#EXTINF:-1,iptvtools_302
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/9
+#EXTINF:-1,iptvtools_303
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/10
+#EXTINF:-1,iptvtools_304
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/11
+#EXTINF:-1,iptvtools_305
+http://viptv2.dyndns.tv:25461/A81905E6C071/A81905E6C071/14
+#EXTINF:-1,iptvtools_306
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON
+#EXTINF:-1,iptvtools_307
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+#EXTINF:-1,iptvtools_308
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+#EXTINF:-1,iptvtools_309
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1,iptvtools_310
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1,iptvtools_311
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+#EXTINF:-1,iptvtools_312
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,iptvtools_313
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,iptvtools_314
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1,iptvtools_315
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS", SPORTS
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8   Watch a screenshot   Watch live stream	
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS",CANAL 26
-http://200.115.193.177/live/26hd-720/.m3u8 #Name: iptvtools_28
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS",KIDS TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8   Watch a screenshot   Watch live stream	
-
-
-#EXTINF:-1 tvg-logo="https://cdn.jornalgrandebahia.com.br/2020/09/RecordTV-e-uma-rede-de-televisao-comercial-20200923-scaled.jpg" group-title="INTERNACIONAIS",ARIANG KOREA
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8      	
-
-
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",NEW CHANEL
+#EXTINF:-1,iptvtools_316
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,iptvtools_317
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,iptvtools_318
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1,iptvtools_319
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_320
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW1
+#EXTINF:-1,iptvtools_321
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_322
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW2
+#EXTINF:-1,iptvtools_323
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_324
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW3
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8      
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW4
+#EXTINF:-1,iptvtools_325
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_326
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,iptvtools_327
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_328
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW5
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW6
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW7
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW8
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW9
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", NEW10
-
-
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO", SBT
+#EXTINF:-1,iptvtools_329
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_330
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1,iptvtools_331
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_332
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1,iptvtools_333
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_334
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,iptvtools_335
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_336
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,iptvtools_337
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_338
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:-1,iptvtools_339
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_340
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_341
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV" group-title="CANAL ABERTO",TVE
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8      	
-  	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8  	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8   
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://stream.dubstep.fm:80/256mp3      	
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",TVE
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8      	
-
-   	
+#EXTINF:-1,iptvtools_342
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
+#EXTINF:-1,iptvtools_343
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,iptvtools_344
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,iptvtools_345
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_346
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,iptvtools_347
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,iptvtools_348
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_349
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,iptvtools_350
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1,iptvtools_351
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,iptvtools_352
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,iptvtools_353
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,iptvtools_354
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1,iptvtools_355
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1,iptvtools_356
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,iptvtools_357
+https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300
+#EXTINF:-1,iptvtools_358
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:-1,iptvtools_359
+http://stream.dubstep.fm:80/256mp3
+#EXTINF:-1,iptvtools_360
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
