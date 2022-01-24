@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BRZ
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,TVE
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1,REDEVIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
 #EXTINF:-1,TV CAMARA
