@@ -1,305 +1,152 @@
-#EXTM3U
-#EXTINF:-1,iptvtools_4
-https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
-#EXTINF:-1,iptvtools_8
-https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1
-#EXTINF:-1,iptvtools_24
-https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8
-#EXTINF:-1,iptvtools_28
-https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1
-#EXTINF:-1,iptvtools_45
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
-#EXTINF:-1,iptvtools_46
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_47
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1,iptvtools_48
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1,iptvtools_62
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_63
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1,iptvtools_68
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1,iptvtools_69
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1,iptvtools_70
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,iptvtools_72
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1,iptvtools_73
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
-#EXTINF:-1,iptvtools_74
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
-#EXTINF:-1,iptvtools_75
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,iptvtools_76
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_77
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,iptvtools_78
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,iptvtools_79
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1,iptvtools_80
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_82
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
-#EXTINF:-1,iptvtools_83
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1,iptvtools_90
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1,iptvtools_107
-https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
-#EXTINF:-1,iptvtools_122
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_127
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1,iptvtools_135
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF:-1,iptvtools_137
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1,iptvtools_140
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1,iptvtools_142
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1,iptvtools_143
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1,iptvtools_150
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,iptvtools_151
-http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-#EXTINF:-1,iptvtools_152
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-#EXTINF:-1,iptvtools_153
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:-1,iptvtools_155
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8
-#EXTINF:-1,iptvtools_156
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1,iptvtools_158
-https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:-1,iptvtools_159
-https://a.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_164
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,iptvtools_165
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,iptvtools_166
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1,iptvtools_167
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:-1,iptvtools_169
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1,iptvtools_170
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_172
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
-#EXTINF:-1,iptvtools_175
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1,iptvtools_176
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1,iptvtools_177
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1,iptvtools_182
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1,iptvtools_183
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_185
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_186
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1,iptvtools_187
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-#EXTINF:-1,iptvtools_191
-http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
-#EXTINF:-1,iptvtools_194
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,iptvtools_196
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1,iptvtools_197
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1,iptvtools_200
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:-1,iptvtools_202
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-#EXTINF:-1,iptvtools_204
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
-#EXTINF:-1,iptvtools_205
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1,iptvtools_208
-https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
-#EXTINF:-1,iptvtools_209
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1,iptvtools_210
-https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
-#EXTINF:-1,iptvtools_212
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
-#EXTINF:-1,iptvtools_213
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1,iptvtools_214
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1,iptvtools_216
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:-1,iptvtools_217
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:-1,iptvtools_218
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_220
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
-#EXTINF:-1,iptvtools_221
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1,iptvtools_224
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1,iptvtools_225
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1,iptvtools_228
-https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
-#EXTINF:-1,iptvtools_233
-https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1,iptvtools_235
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,iptvtools_236
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1,iptvtools_240
-https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_241
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_243
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1,iptvtools_245
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1,iptvtools_246
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-#EXTINF:-1,iptvtools_247
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1,iptvtools_249
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
-#EXTINF:-1,iptvtools_251
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1,iptvtools_252
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1,iptvtools_254
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_258
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,iptvtools_260
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,iptvtools_262
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,iptvtools_263
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8
-#EXTINF:-1,iptvtools_264
-https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
-#EXTINF:-1,iptvtools_265
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_266
-https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
-#EXTINF:-1,iptvtools_267
-http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_271
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,iptvtools_273
-https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
-#EXTINF:-1,iptvtools_275
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1,iptvtools_276
-http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
-#EXTINF:-1,iptvtools_277
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:-1,iptvtools_278
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
-#EXTINF:-1,iptvtools_280
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_281
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_282
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_284
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_285
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_286
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_288
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,iptvtools_291
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:-1,iptvtools_292
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-#EXTINF:-1,iptvtools_293
-https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
-#EXTINF:-1,iptvtools_294
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1,iptvtools_308
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
-#EXTINF:-1,iptvtools_310
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1,iptvtools_314
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-#EXTINF:-1,iptvtools_315
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1,iptvtools_316
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,iptvtools_317
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1,iptvtools_318
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1,iptvtools_319
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_320
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,iptvtools_321
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_322
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,iptvtools_323
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_324
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_325
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_326
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_327
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_329
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_331
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_332
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1,iptvtools_333
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_334
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,iptvtools_335
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_336
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,iptvtools_337
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_339
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_340
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_341
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,iptvtools_342
-https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV
-#EXTINF:-1,iptvtools_345
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_350
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,iptvtools_351
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_352
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,iptvtools_355
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1,iptvtools_356
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,iptvtools_357
-https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300
-#EXTINF:-1,iptvtools_359
-http://stream.dubstep.fm:80/256mp3
+https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8 #Name: iptvtools_4
+https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1 #Name: iptvtools_8
+https://59c5c86e10038.streamlock.net/8122/8122/playlist.m3u8 #Name: iptvtools_24
+https://panel.dattalive.com/8122/8122/chunklist_w1512838420.m3u8?_=1 #Name: iptvtools_28
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8 #Name: iptvtools_45
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8 #Name: iptvtools_46
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8 #Name: iptvtools_47
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8 #Name: iptvtools_48
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8 #Name: iptvtools_62
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8 #Name: iptvtools_63
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8 #Name: iptvtools_68
+https://stream3.camara.gov.br/tv1/manifest.m3u8 #Name: iptvtools_69
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8 #Name: iptvtools_70
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8 #Name: iptvtools_72
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8 #Name: iptvtools_73
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8 #Name: iptvtools_74
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8 #Name: iptvtools_75
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8 #Name: iptvtools_76
+http://200.189.113.201/hls/tve.m3u8 #Name: iptvtools_77
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 #Name: iptvtools_78
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8 #Name: iptvtools_79
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8 #Name: iptvtools_80
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8 #Name: iptvtools_82
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8 #Name: iptvtools_83
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8 #Name: iptvtools_90
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8 #Name: iptvtools_107
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8 #Name: iptvtools_122
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8 #Name: iptvtools_127
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8 #Name: iptvtools_135
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8 #Name: iptvtools_137
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8 #Name: iptvtools_140
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8 #Name: iptvtools_142
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8 #Name: iptvtools_143
+http://200.189.113.201/hls/tve.m3u8 #Name: iptvtools_150
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8 #Name: iptvtools_151
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8 #Name: iptvtools_152
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8 #Name: iptvtools_153
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8 #Name: iptvtools_155
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8 #Name: iptvtools_156
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8 #Name: iptvtools_158
+https://a.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8 #Name: iptvtools_159
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 #Name: iptvtools_164
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 #Name: iptvtools_165
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8 #Name: iptvtools_166
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8 #Name: iptvtools_167
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8 #Name: iptvtools_169
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 #Name: iptvtools_170
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8 #Name: iptvtools_172
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8 #Name: iptvtools_175
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8 #Name: iptvtools_176
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8 #Name: iptvtools_177
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8 #Name: iptvtools_182
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8 #Name: iptvtools_183
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8 #Name: iptvtools_185
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8 #Name: iptvtools_186
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8 #Name: iptvtools_187
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8 #Name: iptvtools_191
+http://51.222.85.85:81/hls/loco/index.m3u8 #Name: iptvtools_194
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8 #Name: iptvtools_196
+https://stream3.camara.gov.br/tv1/manifest.m3u8 #Name: iptvtools_197
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8 #Name: iptvtools_200
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8 #Name: iptvtools_202
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8 #Name: iptvtools_204
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8 #Name: iptvtools_205
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8 #Name: iptvtools_208
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8 #Name: iptvtools_209
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8 #Name: iptvtools_210
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8 #Name: iptvtools_212
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8 #Name: iptvtools_213
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8 #Name: iptvtools_214
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8 #Name: iptvtools_216
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8 #Name: iptvtools_217
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8 #Name: iptvtools_218
+http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8 #Name: iptvtools_220
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8 #Name: iptvtools_221
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8 #Name: iptvtools_224
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8 #Name: iptvtools_225
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8 #Name: iptvtools_228
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8 #Name: iptvtools_233
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8 #Name: iptvtools_235
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8 #Name: iptvtools_236
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8 #Name: iptvtools_240
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8 #Name: iptvtools_241
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8 #Name: iptvtools_243
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8 #Name: iptvtools_245
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8 #Name: iptvtools_246
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8 #Name: iptvtools_247
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8 #Name: iptvtools_249
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8 #Name: iptvtools_251
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8 #Name: iptvtools_252
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 #Name: iptvtools_254
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8 #Name: iptvtools_258
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 #Name: iptvtools_260
+https://livees.cgtn.com/1000e/prog_index.m3u8 #Name: iptvtools_262
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_1500_av-p.m3u8 #Name: iptvtools_263
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8 #Name: iptvtools_264
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8 #Name: iptvtools_265
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8 #Name: iptvtools_266
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8 #Name: iptvtools_267
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8 #Name: iptvtools_271
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001 #Name: iptvtools_273
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8 #Name: iptvtools_275
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8 #Name: iptvtools_276
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8 #Name: iptvtools_277
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8 #Name: iptvtools_278
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8 #Name: iptvtools_280
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8 #Name: iptvtools_281
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8 #Name: iptvtools_282
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 #Name: iptvtools_284
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8 #Name: iptvtools_285
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8 #Name: iptvtools_286
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8 #Name: iptvtools_288
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8 #Name: iptvtools_291
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8 #Name: iptvtools_292
+https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8 #Name: iptvtools_293
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8 #Name: iptvtools_294
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8 #Name: iptvtools_308
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8 #Name: iptvtools_310
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8 #Name: iptvtools_314
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8 #Name: iptvtools_315
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 #Name: iptvtools_316
+http://200.115.193.177/live/26hd-720/.m3u8 #Name: iptvtools_317
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8 #Name: iptvtools_318
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 #Name: iptvtools_319
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 #Name: iptvtools_320
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_321
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8 #Name: iptvtools_322
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_323
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8 #Name: iptvtools_324
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_325
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 #Name: iptvtools_326
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_327
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_329
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_331
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 #Name: iptvtools_332
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_333
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8 #Name: iptvtools_334
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_335
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8 #Name: iptvtools_336
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_337
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_339
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_340
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 #Name: iptvtools_341
+https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV #Name: iptvtools_342
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 #Name: iptvtools_345
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8 #Name: iptvtools_350
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8 #Name: iptvtools_351
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 #Name: iptvtools_352
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 #Name: iptvtools_355
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8 #Name: iptvtools_356
+https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300 #Name: iptvtools_357
+http://stream.dubstep.fm:80/256mp3 #Name: iptvtools_359
